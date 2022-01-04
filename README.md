@@ -29,6 +29,8 @@ Have fun playing Minecraft on your new completely free Minecraft: Java Edition s
 - - - ban/kick players
 - - - query support
 - - - plug-in API
+- - - joinable and playable
+- - - Command and Argument parsing
 
 - 2022.1.0a4 (5th January 2022)
 - - Bug fixes
