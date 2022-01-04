@@ -17,24 +17,23 @@ Have fun playing Minecraft on your new completely free Minecraft: Java Edition s
 # Updates
 
 - 2022.1.0a1 (1st January 2022 & 2nd January 2022)
--- Initial Release
+- - Initial Release
 
 - 2022.1.0a2 (3rd January 2022)
--- Bug fixes
+- - Bug fixes
 
 - 2022.1.0a3 (4th January 2022)
--- Bug fixes
--- New features:
---- simple terrain generation
---- ban/kick players
---- query support
---- plug-in API
+- - Bug fixes
+- - New features:
+- - - simple terrain generation
+- - - ban/kick players
+- - - query support
+- - - plug-in API
 
 - 2022.1.0a4 (5th January 2022)
--- Bug fixes
--- new features:
---- joinable and playable
---- Command and Argument parsing
+- - Bug fixes
+- - new features:
+- - - Unknown
 
 - 2022.1.0a5 (6th January 2022)
 
