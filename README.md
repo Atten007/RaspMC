@@ -10,8 +10,8 @@ Have fun playing Minecraft on your new completely free Minecraft: Java Edition s
 # Requirements
 - 512MB RAM
 - At least Python 3.6.8
-- At least Minecraft 1.7.10 (recommended is Minecraft 1.8.9)
-- At least Minecraft: Pocket Edition 1.1.7
+- At least Minecraft 1.8.9
+- At least Minecraft: Pocket Edition 1.6.0
 - A 64-Bit CPU (32-Bit CPUs and 16-Bit CPUs won't work!)
 
 # Updates
