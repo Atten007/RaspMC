@@ -10,12 +10,16 @@ Have fun playing Minecraft on your new completely free Minecraft: Java Edition s
 # Requirements
 - 512MB RAM
 - At least Python 3.6.8
-- At least Minecraft 1.8.9
-- At least Minecraft: Pocket Edition 1.6.0
+- At least Minecraft 1.2.5
+- At least Minecraft: Pocket Edition 1.6.0 (Support for this will come very soon!)
 - A 64-Bit CPU (32-Bit CPUs and 16-Bit CPUs won't work!)
 
 # Updates
 ## v.0.0.1 (??.02.2022)
 
 - Initial release
-- 
+- Two default worldgen-options: Superflat and default (can be adjusted in the config at the section world-type)
+- Procedurally generated worlds
+- support for up to 1 trillion players
+- very simple structures (e.g. villages, shipwrecks, pillager outposts, mineshafts and dungeons
+- supports all Minecraft: Java Edition versions from 1.2.5 until 1.18.2 (22w07a)!
