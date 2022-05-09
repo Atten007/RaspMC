@@ -20,8 +20,14 @@ Have fun playing Minecraft on your new completely free Minecraft: Java Edition s
 - Initial release
 - Two default worldgen-options: Superflat and default (can be adjusted in the config at the section world-type)
 - Procedurally generated worlds
-- support for up to 32768 players
+- support for up to ??? players
 - very simple structures (e.g. villages, shipwrecks, pillager outposts, mineshafts and dungeons
 - supports all Minecraft: Java Edition versions from 1.2.5 (will come later) until 1.18.2!
 - plug-in and mod support (mods should also be installed on the client!)
 
+# Compatibility
+
+1.1 and prior: not supported
+1.2.5 until 1.6.4: Only Python 2.7.18
+1.7.10 until 1.13.2: Python 2.7.18 and Python 3.6.8
+1.14.4 until 1.19 (22w19a): Only Python 3.6.8
