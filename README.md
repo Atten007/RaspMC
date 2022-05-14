@@ -1,4 +1,4 @@
-This branch is only for Prereleases of RaspMC!
+This branch is only for stable releases of RaspMC!
 # RaspMC
 RaspMC is a completely free Minecraft server software that currently only works on all the 64-bit Raspberry Pi.
 I've written this software in Python 3.11 and it's also backwards-compatible until Python 3.6.8.
