@@ -8,9 +8,9 @@ At least 512MB RAM is required or RaspMC won't work! To start this server, simpl
 Have fun playing Minecraft on your new completely free Minecraft: Java Edition server on your Raspberry Pi!
 
 # Requirements
-- 512MB RAM
+- 2GB RAM or more (1GB will also work but with random crashes etc.)
 - At least Python 3.11
-- At least Minecraft 1.19
+- At least Minecraft 1.19 (Support for older versions will come later!)
 - A 64-Bit CPU with a 64-Bit Operating System (32-Bit CPUs and/or Operating Systems aren't supported due to the less amount of RAM <1GB)
 
 # Updates
