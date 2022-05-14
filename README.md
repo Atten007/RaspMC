@@ -6,7 +6,7 @@ The software does also support the deprecated Python 2, but only the very old Mi
 It also works on all Minecraft versions starting with 1.8.9
 Please note that this Minecraft server software is currently not official and it's in an alpha state, the current version is v.0.0.1 and please also note that this server software currently only works on the Minecraft: Java Edition. 
 If you only have the Minecraft: Pocket Edition on your mobile device or the Bedrock Edition on your PC and/or your console, see this here: https://github.com/Atten007/RaspMCPE or install a plugin (e.g. GeyserMC).
-At least 2GB RAM is required or RaspMC won't work! To start this server, simply double click the file "main.py", use the shell script or type in the following code in your terminal:
+At least 2GB RAM is required or RaspMC won't work! To start this server, simply double click the file "main.py", use the shell script or type in the following code in your terminal:<br>
 <code>git clone https://github.com/Atten007/RaspMC.git</code><br>
 <code>cd RaspMC</code><br>
 <code>python3 main.py</code><br>
